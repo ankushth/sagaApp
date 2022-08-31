@@ -1,0 +1,6 @@
+module Pods_SagaApp_SagaAppTests {
+  umbrella header "Pods-SagaApp-SagaAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
